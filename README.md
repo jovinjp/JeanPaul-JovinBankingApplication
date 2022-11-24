@@ -7,6 +7,6 @@
 <h2>Future Improvements</h2>
 <p>One could refactor this exercise using react and adding optional styling.</p>
 <h2>How to run</h2>
-<p>You can click the link provided to test it out. Also, the complete repo will be available to fork/copy to refactor for improvements. For instance, "CSS" and Background image(s) could be added and others.</p>
+<p>You can click the link https://jovinjp.github.io/JeanPaul-JovinBankingApplication/ provided to test it out. Also, the complete repo will be available to fork/copy to refactor for improvements. For instance, "CSS" and Background image(s) could be added and others.</p>
 <h2>Credits</h2>
 <p>MIT xPRO</p>
