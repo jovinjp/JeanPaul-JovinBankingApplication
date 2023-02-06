@@ -1,13 +1,13 @@
 ## Bad Bank
 
-<h2>Brief Despcription</h2>
+<h2>Brief Description</h2>
 <p>This is a Bad-Bank Front-End assignment that I have worked on from MIT xPRO. It will show a series of process: 
   Create Account -- multiple users are able to signup by entering name, email and password(8 characters are more;
   Login -- after character creation, you could use both email and password to log in;
   Deposit -- You may test it by deposit any amount greater than $0 to see if the message will show that it was a success or not;
   Withdraw -- same as the deposit, users can test it by withdrawing amount greater than $0; however, over the balance will pop-up a message and will not let you go over your limit;
   Balance -- this is the area once you made a deposit and/or withdrawn, you'll be able to see the amounts;
-  All Data -- is where the informations are stored once you login, deposit and/or withdrawn to keep track of.</p>
+  All Data -- is where the information are stored once you login, deposit and/or withdrawn to keep track of.</p>
 <h2>Outcome</h2>
 <p>You will be able to navigate through this project to test the deposit, withdraw and inspect the other areas. If you attempt to put a negative amount, it will be rejected. If you attempt to withdraw more than the available balance, it will denied the withdrawal</p>
 <h2>Future Improvements</h2>
